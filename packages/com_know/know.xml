@@ -31,7 +31,7 @@
 		<filename>router.php</filename>
 	</files>
 	<languages folder="site">
-		<language tag="pt-BR">language/pt-BR.com_know.ini</language>
+		<language tag="pt-BR">language/pt-BR/pt-BR.com_know.ini</language>
 	</languages>
 	<administration>
 		<menu img="../media/com_know/images/menu/know.png">com_know</menu>
@@ -54,8 +54,8 @@
 			<filename>index.html</filename>
 		</files>
 		<languages folder="admin">
-			<language tag="pt-BR">language/pt-BR.com_know.ini</language>
-			<language tag="pt-BR">language/pt-BR.com_know.sys.ini</language>
+			<language tag="pt-BR">language/pt-BR/pt-BR.com_know.ini</language>
+			<language tag="pt-BR">language/pt-BR/pt-BR.com_know.sys.ini</language>
 		</languages>
 	</administration>
 </extension>
